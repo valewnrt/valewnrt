@@ -18,9 +18,9 @@
 I build developer tools for AI coding agents — the kind I needed myself and couldn't find. Two open-source projects, both shipping:
 
 #### 🐝 [swarm](https://github.com/valewnrt/swarm)
-> Parallel terminals for AI coding agents — with a built-in GitHub view (source control, diffs, PRs).
->
-> Run multiple agents side by side without the chaos. Built with **Tauri + Rust + React** — no Electron, native and fast.
+> Parallel terminals for AI coding agents, with a built-in GitHub view — source control, diffs, PRs.
+
+I built swarm because the existing tools didn't cut it for me: the design was off, and none of them had proper GitHub integration. So I made my own — **Tauri + Rust + React**, native and fast, no Electron.
 
 <p>
   <a href="https://github.com/valewnrt/swarm">
@@ -34,8 +34,8 @@ I build developer tools for AI coding agents — the kind I needed myself and co
 
 #### 🧪 [testa](https://github.com/valewnrt/testa)
 > Autonomous iOS Simulator E2E driver for AI agents — accessibility tree + on-device OCR, every gesture, token-efficient, zero third-party deps.
->
-> Lets agents drive real iOS apps end-to-end. Install via Homebrew: [`homebrew-testa`](https://github.com/valewnrt/homebrew-testa).
+
+I built testa to let agents test my own iOS apps end-to-end — whether they're React Native (Expo) or native Swift. Install it via Homebrew: [`homebrew-testa`](https://github.com/valewnrt/homebrew-testa).
 
 <p>
   <a href="https://github.com/valewnrt/testa">
@@ -50,27 +50,30 @@ I build developer tools for AI coding agents — the kind I needed myself and co
 
 ### 🛠️ Tech I work with
 
+**Languages**
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+</p>
+
+**Web & SaaS**
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=valewnrt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valewnrt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+**Mobile**
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valewnrt&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+**Desktop & Tooling**
+<p>
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
 </p>
 
 ---
